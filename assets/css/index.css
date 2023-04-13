@@ -1,0 +1,13 @@
+.card {
+    display: inline-block;
+    margin: 20px 10px 40px 10px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.container-fluid {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: linear-gradient(90deg, orange, white);
+}
